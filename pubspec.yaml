@@ -1,0 +1,21 @@
+name: flutter_crypto_transfer_qr
+description: This is a Flutter program for generate QR of crypto address with transfer amount.
+version: 0.0.1
+author: Hayato Omori (https://twitter.com/hayato_omr)
+homepage: https://github.com/hayatoVTA/flutter_crypto_transfer_qr
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.0.0
+  qr: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
